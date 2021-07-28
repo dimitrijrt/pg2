@@ -1,0 +1,26 @@
+
+.titre {
+    text-align: center;
+  }
+  
+  .lien {
+    text-align: end;
+    color: black;
+  }
+  
+  .container {
+    position: relative;
+    left: -100px;
+  }
+  
+  .créer {
+    position:relative;
+    top: 100px;
+    text-align: end;
+  }
+  
+  .afficherlist {
+    position: relative;
+    left: 1000px;
+    top: 100px;
+  }

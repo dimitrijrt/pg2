@@ -1,0 +1,100 @@
+.linkgroupe {
+  color: black;
+  position :relative;
+  top: 1px;
+  left: 1250px;
+}
+.linksegment {
+  color: black;
+  position :relative;
+  top: 1px;
+  left: 1200px;
+
+}
+.linkcamp {
+  color: black;
+  position :relative;
+  top: 1px;
+  left: 1150px;
+
+}
+
+.col {
+ border-color:black;
+}
+
+
+
+.card {
+  width: 18rem;
+}
+
+.checkbox {
+  width: 10rem;
+}
+
+.titrerpc {
+  text-align: center;
+}
+.soustitrerpc {
+  text-align: center;
+}
+
+.rectangle1 {
+  display:flex ;
+  align-items: center;
+  justify-content: center;
+}
+
+.box4 {
+  position :relative;
+  top: 30px;
+  left: -20px;
+}
+
+.box3 {
+  position :relative;
+  top: 30px;
+  left: -20px;
+}
+
+.box2 {
+  position :relative;
+  top: 30px;
+  left: -20px;
+}
+
+.box1 {
+  position :relative;
+  top: 30px;
+  left: -20px;
+}
+
+.segmentscr {
+  text-align: center;
+}
+
+.recseg {
+  position: relative;
+  left:1000px;
+  bottom: 450px;;
+}
+
+
+
+.bilanrpt {
+  position: relative;
+  bottom: 500px;
+}
+
+.pointsegm {
+  position:relative;
+  left:600px;
+  bottom: 225px;
+}
+
+.pointsegm1 {
+  position:relative;
+  left:310px;
+  bottom: 3px;
+}

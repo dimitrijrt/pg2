@@ -1,0 +1,42 @@
+.col {
+
+  color:black
+  
+}
+
+
+
+
+.titrescrapp {
+  text-align: center;
+}
+
+.soustitrescrapp {
+  position: relative;
+  left: 120px;
+}
+
+.basssfb {
+  text-align: center;
+}
+
+.linkgroupe {
+  color: black;
+  position :relative;
+  top: 1px;
+  left: 1250px;
+}
+.linksegment {
+  color: black;
+  position :relative;
+  top: 1px;
+  left: 1200px;
+
+}
+.linkcamp {
+  color: black;
+  position :relative;
+  top: 1px;
+  left: 1150px;
+
+}

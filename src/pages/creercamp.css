@@ -1,0 +1,33 @@
+.App-header {
+    text-align: center;
+  }
+  
+  .last {
+    position:relative;
+    bottom: 2px;
+  }
+  
+  .statut {
+    position: relative;
+    left: 450px;
+  }
+  
+  .charger {
+    position:relative;
+    left: 100px;
+  }
+  
+  .Statutpost {
+    position:relative;
+    left: 100px;
+  }
+  
+  .card {
+    width: 12rem;
+    height:8rem;
+    position:relative;
+    left:-1px
+  }
+  .titrepost {
+    left: 1000px;
+  }

@@ -1,0 +1,76 @@
+.linkgroupe {
+    color: black;
+    position :relative;
+    top: 1px;
+    left: 1250px;
+  }
+  .linksegment {
+    color: black;
+    position :relative;
+    top: 1px;
+    left: 1200px;
+  
+  }
+  .linkcamp {
+    color: black;
+    position :relative;
+    top: 1px;
+    left: 1150px;
+  
+  }
+  
+  .voir {
+    
+    color:black;
+    position: relative;
+    left: 200px;
+    top: 50px;
+  }
+  .mp{
+    text-align:center;
+  }
+  .slt{
+    text-align: center;
+  }
+  
+  .comparer {
+    
+    color:black;
+    position: relative;
+    left: 200px;
+    top: 100px;
+  }
+  
+  .relever {
+    
+    color:black;
+    position: relative;
+    left: 200px;
+    top: 150px;
+  }
+  
+  
+  
+  .creerpa {
+    color:black;
+    position: relative;
+    left: 1100px;
+    bottom: 350px;
+  
+  }
+  
+  .analyser {
+    color:black;
+    position: relative;
+    left: 1100px;
+    bottom: 300px;
+  
+  }
+  
+  .segmenter {
+    color:black;
+    position: relative;
+    left: 1100px;
+    bottom: 200px;
+  
+  }

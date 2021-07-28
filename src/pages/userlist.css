@@ -1,0 +1,21 @@
+.titreuma {
+    text-align: center;
+  }
+  
+  .lienuma {
+    text-align: end;
+    color: black;
+  }
+  
+  
+  .créeruma {
+    position:relative;
+    top: 100px;
+    text-align: end;
+  }
+  
+  .afficherlistuma {
+    position: relative;
+    left: 1000px;
+    top: 100px;
+  }
